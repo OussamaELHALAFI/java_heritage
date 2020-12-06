@@ -1,0 +1,8 @@
+ - 1> ACTION : INSERT sur [FORTRAN] à 0:13:15
+ - 2> ACTION : INSERT sur [COBOL] à 0:13:15
+ - 3> ACTION : INSERT sur [C++] à 0:13:15
+ - 4> ACTION : INSERT sur [JAVA] à 0:13:15
+ - 5> ACTION : SELECT sur [1] à 0:13:15
+ - 6> ACTION : INSERT sur [C#] à 0:13:15
+ - 7> ACTION : SELECT sur [3] à 0:13:15
+ - 8> ACTION : DELETE sur [0] à 0:13:15
